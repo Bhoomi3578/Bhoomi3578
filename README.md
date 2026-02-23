@@ -1,4 +1,4 @@
-## Hi there 
+## Hey there 
 
 - I'm Bhoomi, I'm a 7th Semester CSE student and an aspiring Software Engineer.
   
@@ -6,18 +6,13 @@
   
 - Currently preparing for off-campus placements and enhancing my development skills.
 
-- _________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 ## Tools & Tech
 - **Languages:** Java, Python, JavaScript, HTML, CSS  
 - **Frameworks / Libraries:** React, Node.js, Tailwind CSS  
 - **Databases:** MySQL, MongoDB  
 - **Tools & Platforms:** Git, GitHub, VS Code, Vercel
 
-_________________________________________________________________________________________________________________________________________________________________________________________________________________
-
 ## A bit about Me
-
 - Reading tech blogs and self-development books 
 
 
