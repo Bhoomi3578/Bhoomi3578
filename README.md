@@ -1,9 +1,7 @@
 ## Hey there 
 
-- I'm Bhoomi, I'm a 7th Semester CSE student and an aspiring Software Engineer.
-  
+- I'm Bhoomi, I'm a CSE student and an aspiring Software Engineer.
 - Passionate about building projects, learning modern web technologies, and exploring data analytics.
-  
 - Currently preparing for off-campus placements and enhancing my development skills.
 
 ## Tools & Tech
@@ -13,7 +11,9 @@
 - **Tools & Platforms:** Git, GitHub, VS Code, Vercel
 
 ## A bit about Me
-- Reading tech blogs and self-development books 
+- Curious about how things work
+- Focused on self-improvement
+- Believes in consistency over motivation
 
 
 <!--
