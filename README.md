@@ -13,7 +13,6 @@
 ## A bit about Me
 - Curious about how things work
 - Focused on self-improvement
-- Believes in consistency over motivation
 
 
 <!--
